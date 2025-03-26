@@ -6,7 +6,7 @@
 ---
 ## 시연 영상
 
-[![프로젝트 시연 영상][(https://youtu.be/hfHRWWFuctw)](https://youtu.be/hfHRWWFuctw?si=XFaWWIUGOhJFuov9)
+[![프로젝트 시연 영상](https://img.youtube.com/vi/hfHRWWFuctw/hqdefault.jpg)](https://youtu.be/hfHRWWFuctw)
 
 
 
